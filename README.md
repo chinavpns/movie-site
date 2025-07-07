@@ -16,7 +16,7 @@
 
 * **<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN</a>**：老牌VPN，安全性高，在35个国家和地区拥有950多台服务器，连接速度也比较快，同样提供广告拦截功能，价格相对较为便宜，每月仅需3.97美元，支持支付宝付款，也提供24小时在线客服和30天退款保证。
 
-以上两款翻墙VPN非常适合中国用户访问海外免费电影网站，即使观看4K高清视频也非常流畅。而且它们安全性高，可以完美兼容手机、电脑、路由器、智能电视和游戏机等各种设备，并在APP客户端内置广告拦截功能，有效屏蔽所有海外电影网站的弹窗广告。同时，它们都提供24小时在线客服和30天退款保证。更多详情请参考《<a href="https://chinavpns.github.io/">科学上网教程</a>》或《<a href="https://github.com/chinavpns/chinavpns.github.io">最好用的中国VPN</a>》。
+以上两款翻墙VPN非常适合中国用户访问海外免费电影网站，即使观看4K高清视频也非常流畅。而且它们安全性高，可以完美兼容所有主流设备，并提供广告拦截功能，可以有效屏蔽所有海外电影网站的弹窗广告。同时，它们都提供24小时在线客服和30天退款保证。更多详情请参考《<a href="https://chinavpns.github.io/">科学上网教程</a>》或《<a href="https://github.com/chinavpns/chinavpns.github.io">最好用的中国VPN</a>》。
 
 </blockquote>
 <blockquote>
