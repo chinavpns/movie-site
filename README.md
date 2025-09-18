@@ -1,6 +1,6 @@
 # 2025年最新海外免费电影网站推荐：无广告、无需会员、速度快、支持中文字幕和高清播放！
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![最新海外免费电影网站推荐](https://raw.githubusercontent.com/chinavpns/movie-site/refs/heads/main/image/%E6%B5%B7%E5%A4%96%E5%85%8D%E8%B4%B9%E7%94%B5%E5%BD%B1%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90.png)
 
